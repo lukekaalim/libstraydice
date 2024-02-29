@@ -1,0 +1,21 @@
+{
+  "name": "@lukekaalim/libstraydice",
+  "version": "1.0.0",
+  "description": "Typescript data structures and functions for Stray Dice.",
+  "type": "module",
+
+  "main": "dist/index.js",
+  "types": "index.ts",
+
+  "scripts": {
+    "build": "esbuild index.ts --format=esm --bundle --outdir=dist"
+  },
+  "author": "Luke Kaalim",
+  "license": "MIT",
+  "dependencies": {
+    "nanoid": "^5.0.6"
+  },
+  "devDependencies": {
+    "esbuild": "^0.20.1"
+  }
+}
