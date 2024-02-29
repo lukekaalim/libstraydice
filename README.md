@@ -1,4 +1,4 @@
-# Libstraydice
+# `@lukekaalim/libstraydice`
 
 [![NPM Version](https://img.shields.io/npm/v/%40lukekaalim%2Flibstraydice)](https://www.npmjs.com/package/@lukekaalim/libstraydice)
 
